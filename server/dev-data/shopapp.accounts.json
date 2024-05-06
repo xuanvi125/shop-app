@@ -1,0 +1,192 @@
+[
+  {
+    "_id": {
+      "$oid": "65a88d7ca9711d5a9940fa33"
+    },
+    "user": {
+      "$oid": "658d26ed6658edfa11459317"
+    },
+    "balance": 7223011,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a88e31a9711d5a9940fa36"
+    },
+    "user": {
+      "$oid": "65a88e3059541e25e271f2d0"
+    },
+    "balance": 140000,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65ab629af6eb020386f2eb6d"
+    },
+    "user": {
+      "$oid": "65ab62994754701853ab1b10"
+    },
+    "balance": 25335000,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65acd9a0d074fee3d2f713d4"
+    },
+    "user": {
+      "$oid": "65acd9a05ab4472f36c67249"
+    },
+    "balance": 100000,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65ace389d074fee3d2f713d6"
+    },
+    "user": {
+      "$oid": "65ace3885ab4472f36c672a4"
+    },
+    "balance": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65ace4e2d074fee3d2f713d8"
+    },
+    "user": {
+      "$oid": "65ace4e25ab4472f36c672a9"
+    },
+    "balance": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65ade217f11258a6bb75c73f"
+    },
+    "user": {
+      "$oid": "65ade216650f9f7d6572c551"
+    },
+    "balance": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65ae1ebbc8ff45a859dbd163"
+    },
+    "user": {
+      "$oid": "65ae1ebb7c9655e03035c40b"
+    },
+    "balance": 30000000,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65af7a64b176da96f9c7ec2e"
+    },
+    "user": {
+      "$oid": "65af7a647bdbe7b211903f3e"
+    },
+    "balance": 123123,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b4eb09898e195f93407b93"
+    },
+    "user": {
+      "$oid": "65b4eb084857c51f8ba11bf6"
+    },
+    "balance": 22000,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b54819b0edeccbe9139322"
+    },
+    "user": {
+      "$oid": "65b548182272e09486a32e90"
+    },
+    "balance": 1891000,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b5c9f007abaceff2a41cf6"
+    },
+    "user": {
+      "$oid": "65b5c9f0756a63024755c8ad"
+    },
+    "balance": 29842000,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b5ccd707abaceff2a41cff"
+    },
+    "user": {
+      "$oid": "65b5ccd7756a63024755cbdf"
+    },
+    "balance": 29041000,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b5cd6d07abaceff2a41d01"
+    },
+    "user": {
+      "$oid": "65b5cd6d756a63024755cc39"
+    },
+    "balance": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b5d25d07abaceff2a41d45"
+    },
+    "user": {
+      "$oid": "65b5d25d756a63024755d196"
+    },
+    "balance": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b5ff44b6a614f53b031eb1"
+    },
+    "user": {
+      "$oid": "65b5ff44c5c5dd9afb0fdf9e"
+    },
+    "balance": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b763353b73faccaec81706"
+    },
+    "user": {
+      "$oid": "65b76335806b4e780f2f9c83"
+    },
+    "balance": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b763643b73faccaec81708"
+    },
+    "user": {
+      "$oid": "65b76364806b4e780f2f9c8b"
+    },
+    "balance": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b77999c8ce3514ad635a29"
+    },
+    "user": {
+      "$oid": "65b77999d6a0badb93161a69"
+    },
+    "balance": 0,
+    "__v": 0
+  }
+]

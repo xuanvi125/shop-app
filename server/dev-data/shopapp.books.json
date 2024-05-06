@@ -1,0 +1,1202 @@
+[
+  {
+    "_id": {
+      "$oid": "65aa1e1b15d3639a821442bf"
+    },
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "price": 69000,
+    "inventory": 25,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650060/product/eve1dxbcxqfrcz3p4mh7.jpg",
+    "description": "A fantasy novel by J.R.R. Tolkien.",
+    "publisher": "George Allen & Unwin",
+    "publishedYear": 1937,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1e1b15d3639a821442c0"
+    },
+    "name": "The Road",
+    "author": "Cormac McCarthy",
+    "price": 69000,
+    "inventory": 20,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650121/product/zqza95h8iwubrqqzoovg.jpg",
+    "description": "A post-apocalyptic novel by Cormac McCarthy.",
+    "publisher": "Alfred A. Knopf",
+    "publishedYear": 2006,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1e1b15d3639a821442c1"
+    },
+    "name": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "price": 60000,
+    "inventory": 20,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650201/product/qgnyc1xkzspqdnfnhwze.jpg",
+    "description": "A philosophical novel by Oscar Wilde.",
+    "publisher": "Ward, Lock and Company",
+    "publishedYear": 1890,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1e1b15d3639a821442c2"
+    },
+    "name": "1984",
+    "author": "George Orwell",
+    "price": 55000,
+    "inventory": 30,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650235/product/nkpp1hrazezifpujqmuo.jpg",
+    "description": "A dystopian novel by George Orwell.",
+    "publisher": "Secker & Warburg",
+    "publishedYear": 1949,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1e1b15d3639a821442c5"
+    },
+    "name": "The Shining",
+    "author": "Stephen King",
+    "price": 78000,
+    "inventory": 20,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650392/product/cwt4pnbdwwzcvbpowzsi.jpg",
+    "description": "A horror novel by Stephen King.",
+    "publisher": "Doubleday",
+    "publishedYear": 1977,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1e1b15d3639a821442c6"
+    },
+    "name": "Brave New World",
+    "author": "Aldous Huxley",
+    "price": 67000,
+    "inventory": 18,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650427/product/qk4t2q5rham2rmemmbf7.jpg",
+    "description": "A dystopian novel by Aldous Huxley.",
+    "publisher": "Chatto & Windus",
+    "publishedYear": 1932,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1e1b15d3639a821442c7"
+    },
+    "name": "The Martian",
+    "author": "Andy Weir",
+    "price": 48000,
+    "inventory": 28,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650466/product/bcrn05vbz9gnqaadyr8o.jpg",
+    "description": "A science fiction novel by Andy Weir.",
+    "publisher": "Crown Publishing Group",
+    "publishedYear": 2011,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1e1b15d3639a821442ca"
+    },
+    "name": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "price": 74000,
+    "inventory": 15,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650522/product/yz8noygqrderhz8xwhzr.jpg",
+    "description": "A psychological thriller novel by Stieg Larsson.",
+    "publisher": "Norstedts Förlag",
+    "publishedYear": 2005,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1e1b15d3639a821442cc"
+    },
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "price": 63000,
+    "inventory": 22,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650565/product/vk8cphnt3n66duyahnkr.jpg",
+    "description": "A classic novel by Harper Lee.",
+    "publisher": "J.B. Lippincott & Co.",
+    "publishedYear": 1960,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1e1b15d3639a821442cd"
+    },
+    "name": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "price": 95000,
+    "inventory": 15,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650600/product/tlmm6kbglt4n7uz5omok.jpg",
+    "description": "An epic fantasy novel by J.R.R. Tolkien.",
+    "publisher": "George Allen & Unwin",
+    "publishedYear": 1954,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1e1b15d3639a821442ce"
+    },
+    "name": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "price": 72000,
+    "inventory": 20,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650629/product/prpreuaw2smytqgrpywq.jpg",
+    "description": "A psychological novel by Fyodor Dostoevsky.",
+    "publisher": "The Russian Messenger",
+    "publishedYear": 1866,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1e1b15d3639a821442cf"
+    },
+    "name": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "price": 58000,
+    "inventory": 28,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650729/product/slmj8s8eajixuoermd7x.jpg",
+    "description": "A dystopian novel by Ray Bradbury.",
+    "publisher": "Ballantine Books",
+    "publishedYear": 1953,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1fb415d3639a821442f2"
+    },
+    "name": "Dune",
+    "author": "Frank Herbert",
+    "price": 72000,
+    "inventory": 35,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650792/product/hpftu2sljy6hhmncgpjd.jpg",
+    "description": "A science fiction novel by Frank Herbert.",
+    "publisher": "Chilton Books",
+    "publishedYear": 1965,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1fb415d3639a821442f3"
+    },
+    "name": "Ender's Game",
+    "author": "Orson Scott Card",
+    "price": 61000,
+    "inventory": 25,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650860/product/dgorb2kluem3nynfkyjh.jpg",
+    "description": "A military science fiction novel by Orson Scott Card.",
+    "publisher": "Tor Books",
+    "publishedYear": 1985,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1fb415d3639a821442f4"
+    },
+    "name": "Neuromancer",
+    "author": "William Gibson",
+    "price": 69000,
+    "inventory": 22,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650909/product/hialxhqejsarqwqao6gm.jpg",
+    "description": "A cyberpunk novel by William Gibson.",
+    "publisher": "Ace Books",
+    "publishedYear": 1984,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1fb415d3639a821442f5"
+    },
+    "name": "Snow Crash",
+    "author": "Neal Stephenson",
+    "price": 74000,
+    "inventory": 20,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650958/product/lwev5kbc2nrom6tpipbo.jpg",
+    "description": "A science fiction novel by Neal Stephenson.",
+    "publisher": "Bantam Books",
+    "publishedYear": 1992,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1fb415d3639a821442f6"
+    },
+    "name": "Foundation",
+    "author": "Isaac Asimov",
+    "price": 56000,
+    "inventory": 30,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651018/product/puuh1cqg62be2g3vabxt.jpg",
+    "description": "A science fiction novel by Isaac Asimov.",
+    "publisher": "Gnome Press",
+    "publishedYear": 1951,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1fb415d3639a821442f7"
+    },
+    "name": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "price": 54000,
+    "inventory": 25,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651062/product/t1ajpqulaxfrbq5t1txg.jpg",
+    "description": "A comedic science fiction series by Douglas Adams.",
+    "publisher": "Pan Books",
+    "publishedYear": 1979,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1fb415d3639a821442f8"
+    },
+    "name": "I, Robot",
+    "author": "Isaac Asimov",
+    "price": 59000,
+    "inventory": 20,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651100/product/gciubjrllqsareel2yke.jpg",
+    "description": "A collection of science fiction short stories by Isaac Asimov.",
+    "publisher": "Gnome Press",
+    "publishedYear": 1950,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1fb415d3639a821442f9"
+    },
+    "name": "Ready Player One",
+    "author": "Ernest Cline",
+    "price": 66000,
+    "inventory": 18,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651141/product/eghyzgie4jpp6n7uhygb.jpg",
+    "description": "A dystopian science fiction novel by Ernest Cline.",
+    "publisher": "Crown Publishing Group",
+    "publishedYear": 2011,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1fb415d3639a821442fa"
+    },
+    "name": "The War of the Worlds",
+    "author": "H.G. Wells",
+    "price": 52000,
+    "inventory": 30,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651187/product/mth54ifgwzqpehwc0ga5.jpg",
+    "description": "A classic science fiction novel by H.G. Wells.",
+    "publisher": "Heinemann",
+    "publishedYear": 1897,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1fb415d3639a821442fb"
+    },
+    "name": "Do Androids Dream of Electric Sheep?",
+    "author": "Philip K. Dick",
+    "price": 61000,
+    "inventory": 22,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651220/product/g8ewdzhnwy4wvsdxzkzl.jpg",
+    "description": "A science fiction novel by Philip K. Dick.",
+    "publisher": "Doubleday",
+    "publishedYear": 1968,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa200715d3639a82144316"
+    },
+    "name": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "price": 58000,
+    "inventory": 25,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651263/product/xmjqgmgtpk9wnuibkpzo.jpg",
+    "description": "A science fiction novel by Ursula K. Le Guin.",
+    "publisher": "Ace Books",
+    "publishedYear": 1969,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa200715d3639a82144317"
+    },
+    "name": "The Expanse: Leviathan Wakes",
+    "author": "James S.A. Corey",
+    "price": 72000,
+    "inventory": 20,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651315/product/i4ueku4hs5igyzw0iiaq.jpg",
+    "description": "A space opera novel by James S.A. Corey.",
+    "publisher": "Orbit Books",
+    "publishedYear": 2011,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa200715d3639a82144318"
+    },
+    "name": "Hyperion",
+    "author": "Dan Simmons",
+    "price": 65000,
+    "inventory": 22,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651359/product/cvfenicog5psrmeejt0y.jpg",
+    "description": "A science fiction novel by Dan Simmons.",
+    "publisher": "Doubleday",
+    "publishedYear": 1989,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa200715d3639a82144319"
+    },
+    "name": "Altered Carbon",
+    "author": "Richard K. Morgan",
+    "price": 69000,
+    "inventory": 18,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651402/product/y4mb9x3nupdepqt5zowo.jpg",
+    "description": "A cyberpunk science fiction novel by Richard K. Morgan.",
+    "publisher": "Gollancz",
+    "publishedYear": 2002,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa200715d3639a8214431a"
+    },
+    "name": "The Three-Body Problem",
+    "author": "Liu Cixin",
+    "price": 63000,
+    "inventory": 28,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651440/product/d7wi301awxootgiddtqg.jpg",
+    "description": "A hard science fiction novel by Liu Cixin.",
+    "publisher": "Chongqing Publishing House",
+    "publishedYear": 2008,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa224d15d3639a8214433a"
+    },
+    "name": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "price": 58000,
+    "inventory": 25,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651482/product/dwvmpre6zqtvtkhjardy.jpg",
+    "description": "A psychological thriller novel by Paula Hawkins.",
+    "publisher": "Riverhead Books",
+    "publishedYear": 2015,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa224d15d3639a8214433b"
+    },
+    "name": "Gone Girl",
+    "author": "Gillian Flynn",
+    "price": 63000,
+    "inventory": 20,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651501/product/zss7sorlasoyo02xfh15.jpg",
+    "description": "A mystery thriller novel by Gillian Flynn.",
+    "publisher": "Crown Publishing Group",
+    "publishedYear": 2012,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa224d15d3639a8214433c"
+    },
+    "name": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "price": 72000,
+    "inventory": 22,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651530/product/b4pbfqchtqgi7pdpfx7o.jpg",
+    "description": "A mystery thriller novel by Dan Brown.",
+    "publisher": "Doubleday",
+    "publishedYear": 2003,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa224d15d3639a8214433d"
+    },
+    "name": "In the Woods",
+    "author": "Tana French",
+    "price": 69000,
+    "inventory": 18,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651579/product/yst0camjrwfol61hn2d8.jpg",
+    "description": "A psychological mystery novel by Tana French.",
+    "publisher": "Viking Press",
+    "publishedYear": 2007,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa224d15d3639a8214433e"
+    },
+    "name": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "price": 52000,
+    "inventory": 30,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651621/product/zkap2o80s1gcrpk27tre.jpg",
+    "description": "A mystery novel by Arthur Conan Doyle.",
+    "publisher": "George Newnes",
+    "publishedYear": 1902,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa224d15d3639a8214433f"
+    },
+    "name": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "price": 54000,
+    "inventory": 25,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651650/product/z3unjwoamg4a6jldxux7.jpg",
+    "description": "A psychological mystery novel by Alex Michaelides.",
+    "publisher": "Celadon Books",
+    "publishedYear": 2019,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa224d15d3639a82144340"
+    },
+    "name": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "price": 59000,
+    "inventory": 20,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651715/product/hwx2ih2pt68x95ylpsqw.jpg",
+    "description": "A mystery novel by Liane Moriarty.",
+    "publisher": "Penguin Publishing Group",
+    "publishedYear": 2014,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa224d15d3639a82144342"
+    },
+    "name": "Dark Places",
+    "author": "Gillian Flynn",
+    "price": 62000,
+    "inventory": 18,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651765/product/dp4323exobr6yhudknpw.jpg",
+    "description": "A mystery thriller novel by Gillian Flynn.",
+    "publisher": "Shaye Areheart Books",
+    "publishedYear": 2009,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa224d15d3639a82144343"
+    },
+    "name": "The Woman in the Window",
+    "author": "A.J. Finn",
+    "price": 68000,
+    "inventory": 22,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651798/product/i43wx53zoi97vyez3ekw.jpg",
+    "description": "A psychological thriller novel by A.J. Finn.",
+    "publisher": "William Morrow",
+    "publishedYear": 2018,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa224d15d3639a82144344"
+    },
+    "name": "The Reversal",
+    "author": "Michael Connelly",
+    "price": 59000,
+    "inventory": 25,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705651992/product/jhcqvo4fuuqgnxqtamfh.jpg",
+    "description": "A legal thriller novel by Michael Connelly.",
+    "publisher": "Little, Brown and Company",
+    "publishedYear": 2010,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa224d15d3639a82144345"
+    },
+    "name": "The Cuckoo's Calling",
+    "author": "Robert Galbraith (Pseudonym for J.K. Rowling)",
+    "price": 64000,
+    "inventory": 20,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652042/product/whzjfntqmqynru5gstkm.jpg",
+    "description": "A mystery novel by Robert Galbraith.",
+    "publisher": "Mulholland Books",
+    "publishedYear": 2013,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa224d15d3639a82144346"
+    },
+    "name": "The Girl with the Hazel Eyes",
+    "author": "Barb Hendee",
+    "price": 72000,
+    "inventory": 22,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652083/product/eowbr6v7zzz7b8m8577s.jpg",
+    "description": "A mystery novel by Barb Hendee.",
+    "publisher": "Ace Books",
+    "publishedYear": 2009,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa224d15d3639a82144347"
+    },
+    "name": "The Secret History",
+    "author": "Donna Tartt",
+    "price": 67000,
+    "inventory": 18,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652140/product/lqwzpapw9psfjqema9lq.jpg",
+    "description": "A psychological mystery novel by Donna Tartt.",
+    "publisher": "Alfred A. Knopf",
+    "publishedYear": 1992,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa224d15d3639a82144348"
+    },
+    "name": "Mystic River",
+    "author": "Dennis Lehane",
+    "price": 55000,
+    "inventory": 30,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652176/product/jmbojw1oookqtwg6av6k.jpg",
+    "description": "A mystery novel by Dennis Lehane.",
+    "publisher": "William Morrow",
+    "publishedYear": 2001,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa233315d3639a82144376"
+    },
+    "name": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "price": 67000,
+    "inventory": 25,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652220/product/gskfwkrome9fxmkinwq3.jpg",
+    "description": "A popular history book by Yuval Noah Harari.",
+    "publisher": "Harper",
+    "publishedYear": 2011,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa233315d3639a82144377"
+    },
+    "name": "The Guns of August",
+    "author": "Barbara W. Tuchman",
+    "price": 72000,
+    "inventory": 20,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652262/product/p5jscz0urz1avz2iedfu.jpg",
+    "description": "A history book about World War I by Barbara W. Tuchman.",
+    "publisher": "Macmillan",
+    "publishedYear": 1962,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa233315d3639a82144378"
+    },
+    "name": "1491: New Revelations of the Americas Before Columbus",
+    "author": "Charles C. Mann",
+    "price": 64000,
+    "inventory": 22,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652485/product/t8s9xgqom6m3dgtu4rip.jpg",
+    "description": "A history book by Charles C. Mann.",
+    "publisher": "Knopf",
+    "publishedYear": 2005,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa233315d3639a82144379"
+    },
+    "name": "The Rise and Fall of the Third Reich",
+    "author": "William L. Shirer",
+    "price": 78000,
+    "inventory": 18,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652533/product/icegjcvugct0nn1rguxy.jpg",
+    "description": "A history book about Nazi Germany by William L. Shirer.",
+    "publisher": "Simon & Schuster",
+    "publishedYear": 1960,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa233315d3639a8214437a"
+    },
+    "name": "The Wright Brothers",
+    "author": "David McCullough",
+    "price": 59000,
+    "inventory": 30,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652570/product/s33jhh4nhjky7ep14shi.jpg",
+    "description": "A biography of the Wright Brothers by David McCullough.",
+    "publisher": "Simon & Schuster",
+    "publishedYear": 2015,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa233315d3639a8214437b"
+    },
+    "name": "The Devil in the White City",
+    "author": "Erik Larson",
+    "price": 61000,
+    "inventory": 25,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652599/product/ufx8xnuiapezws8ascqe.jpg",
+    "description": "A historical non-fiction book by Erik Larson.",
+    "publisher": "Crown Publishers",
+    "publishedYear": 2003,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa233315d3639a8214437c"
+    },
+    "name": "A People's History of the United States",
+    "author": "Howard Zinn",
+    "price": 67000,
+    "inventory": 20,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652629/product/pfhlireeou42x77fslwq.jpg",
+    "description": "A history book by Howard Zinn.",
+    "publisher": "Harper & Row",
+    "publishedYear": 1980,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa233315d3639a8214437d"
+    },
+    "name": "Band of Brothers",
+    "author": "Stephen E. Ambrose",
+    "price": 73000,
+    "inventory": 22,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652693/product/vvildxp90majkibzbxsh.jpg",
+    "description": "A history book by Stephen E. Ambrose.",
+    "publisher": "Simon & Schuster",
+    "publishedYear": 1992,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa233315d3639a8214437e"
+    },
+    "name": "The Immortal Life of Henrietta Lacks",
+    "author": "Rebecca Skloot",
+    "price": 69000,
+    "inventory": 18,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652743/product/cmnrvwzihgxr3nrzohxe.jpg",
+    "description": "A biography and history book by Rebecca Skloot.",
+    "publisher": "Crown Publishing Group",
+    "publishedYear": 2010,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa233315d3639a8214437f"
+    },
+    "name": "The Power Broker",
+    "author": "Robert A. Caro",
+    "price": 75000,
+    "inventory": 30,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652773/product/tb2vn08akmewhwvvqtea.jpg",
+    "description": "A biography and history book by Robert A. Caro.",
+    "publisher": "Alfred A. Knopf",
+    "publishedYear": 1974,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa238e15d3639a821443b7"
+    },
+    "name": "The Great Influenza",
+    "author": "John M. Barry",
+    "price": 58000,
+    "inventory": 25,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652806/product/rjj8ved680ujrojqltbx.jpg",
+    "description": "A history book by John M. Barry about the 1918 influenza pandemic.",
+    "publisher": "Viking Penguin",
+    "publishedYear": 2004,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa238e15d3639a821443b8"
+    },
+    "name": "Unbroken",
+    "author": "Laura Hillenbrand",
+    "price": 69000,
+    "inventory": 20,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652847/product/arbh2y2e5c6yi6d7otxz.jpg",
+    "description": "A World War II biography by Laura Hillenbrand.",
+    "publisher": "Random House",
+    "publishedYear": 2010,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa238e15d3639a821443b9"
+    },
+    "name": "The Killer Angels",
+    "author": "Michael Shaara",
+    "price": 72000,
+    "inventory": 22,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652882/product/mtg2rhp6ryfriljosc9u.jpg",
+    "description": "A historical novel by Michael Shaara about the Battle of Gettysburg.",
+    "publisher": "David McKay Company",
+    "publishedYear": 1974,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa238e15d3639a821443ba"
+    },
+    "name": "The Right Stuff",
+    "author": "Tom Wolfe",
+    "price": 64000,
+    "inventory": 18,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652922/product/pirouihyozpqfsusbuhp.jpg",
+    "description": "A history book by Tom Wolfe about the early years of the U.S. space program.",
+    "publisher": "Farrar, Straus and Giroux",
+    "publishedYear": 1979,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa238e15d3639a821443bb"
+    },
+    "name": "The Johnstown Flood",
+    "author": "David McCullough",
+    "price": 65000,
+    "inventory": 30,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705652959/product/uk4pc7h6nan4zaennwpi.jpg",
+    "description": "A history book by David McCullough about the Johnstown Flood of 1889.",
+    "publisher": "Simon & Schuster",
+    "publishedYear": 1968,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa241215d3639a821443f8"
+    },
+    "name": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "price": 76000,
+    "inventory": 25,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705653012/product/teusrwxkeczpbnfex64j.jpg",
+    "description": "A psychology book by Daniel Kahneman about cognitive biases.",
+    "publisher": "Farrar, Straus and Giroux",
+    "publishedYear": 2011,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa241215d3639a821443f9"
+    },
+    "name": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "price": 69000,
+    "inventory": 20,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705653054/product/wlqscbquykxld9abmzoo.jpg",
+    "description": "A psychological and existential book by Viktor E. Frankl.",
+    "publisher": "Beacon Press",
+    "publishedYear": 1946,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa241215d3639a821443fa"
+    },
+    "name": "Influence: The Psychology of Persuasion",
+    "author": "Robert B. Cialdini",
+    "price": 73000,
+    "inventory": 22,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705653088/product/jbpfgelxutedta2su7dm.jpg",
+    "description": "A psychology book by Robert B. Cialdini about the psychology of influence.",
+    "publisher": "HarperCollins",
+    "publishedYear": 1984,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa241215d3639a821443fb"
+    },
+    "name": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "price": 64000,
+    "inventory": 18,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705653135/product/a9mmc58n1f597su0becp.jpg",
+    "description": "A psychology book by Charles Duhigg about the science of habit formation.",
+    "publisher": "Random House",
+    "publishedYear": 2012,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa241215d3639a821443fc"
+    },
+    "name": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+    "author": "Susan Cain",
+    "price": 71000,
+    "inventory": 30,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705653177/product/kfb1f8fe0w8rr7bxrsca.jpg",
+    "description": "A psychology book by Susan Cain about introversion and its strengths.",
+    "publisher": "Crown Publishing Group",
+    "publishedYear": 2012,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa241215d3639a821443fd"
+    },
+    "name": "Emotional Intelligence",
+    "author": "Daniel Goleman",
+    "price": 72000,
+    "inventory": 25,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705653215/product/tuwjbwhrmpgbhfspe3vi.jpg",
+    "description": "A psychology book by Daniel Goleman about the importance of emotional intelligence.",
+    "publisher": "Bantam Books",
+    "publishedYear": 1995,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa241215d3639a821443fe"
+    },
+    "name": "The Art of Thinking Clearly",
+    "author": "Rolf Dobelli",
+    "price": 66000,
+    "inventory": 20,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705653245/product/homfppf6rktcwlc3b9mw.jpg",
+    "description": "A psychology book by Rolf Dobelli about common cognitive biases.",
+    "publisher": "Sceptre",
+    "publishedYear": 2011,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa241215d3639a821443ff"
+    },
+    "name": "The Tipping Point",
+    "author": "Malcolm Gladwell",
+    "price": 75000,
+    "inventory": 22,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705653283/product/uycac7zrzrg3v7mdchgs.jpg",
+    "description": "A psychology book by Malcolm Gladwell about the point at which something goes viral.",
+    "publisher": "Little, Brown and Company",
+    "publishedYear": 2000,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa241215d3639a82144400"
+    },
+    "name": "Mindset: The New Psychology of Success",
+    "author": "Carol S. Dweck",
+    "price": 69000,
+    "inventory": 18,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705653311/product/wj23vfhwpdf8ur8iiyim.jpg",
+    "description": "A psychology book by Carol S. Dweck about the concept of mindset.",
+    "publisher": "Random House",
+    "publishedYear": 2006,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa241215d3639a82144401"
+    },
+    "name": "Drive: The Surprising Truth About What Motivates Us",
+    "author": "Daniel H. Pink",
+    "price": 71000,
+    "inventory": 30,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705653355/product/fc0ypud93j2uqr1xjth2.jpg",
+    "description": "A psychology book by Daniel H. Pink about the science of motivation.",
+    "publisher": "Riverhead Books",
+    "publishedYear": 2009,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa246a15d3639a82144448"
+    },
+    "name": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
+    "author": "Steven D. Levitt, Stephen J. Dubner",
+    "price": 74000,
+    "inventory": 25,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705653434/product/hwei8zxotn5o1isrmla0.jpg",
+    "description": "An exploration of economics by Steven D. Levitt and Stephen J. Dubner.",
+    "publisher": "William Morrow",
+    "publishedYear": 2005,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa246a15d3639a82144449"
+    },
+    "name": "Nudge: Improving Decisions About Health, Wealth, and Happiness",
+    "author": "Richard H. Thaler, Cass R. Sunstein",
+    "price": 68000,
+    "inventory": 20,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705653466/product/fqk5o5girhw5duiewtiw.jpg",
+    "description": "A book about behavioral economics by Richard H. Thaler and Cass R. Sunstein.",
+    "publisher": "Yale University Press",
+    "publishedYear": 2008,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa246a15d3639a8214444a"
+    },
+    "name": "Predictably Irrational: The Hidden Forces That Shape Our Decisions",
+    "author": "Dan Ariely",
+    "price": 72000,
+    "inventory": 22,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705653494/product/vzltlcubqm11xlhgn0ja.jpg",
+    "description": "A behavioral economics book by Dan Ariely.",
+    "publisher": "HarperCollins",
+    "publishedYear": 2008,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa246a15d3639a8214444b"
+    },
+    "name": "The Wisdom of Crowds",
+    "author": "James Surowiecki",
+    "price": 65000,
+    "inventory": 18,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705653523/product/bt3yng8twqwbwgd2bx8f.jpg",
+    "description": "A book exploring the collective intelligence of groups by James Surowiecki.",
+    "publisher": "Doubleday",
+    "publishedYear": 2004,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa246a15d3639a8214444c"
+    },
+    "name": "Grit: The Power of Passion and Perseverance",
+    "author": "Angela Duckworth",
+    "price": 71000,
+    "inventory": 30,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705653549/product/qqjovzcnlt0xooy0ajmu.jpg",
+    "description": "A book about the importance of grit by Angela Duckworth.",
+    "publisher": "Scribner",
+    "publishedYear": 2016,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1e1b15d3639a821442bd"
+    },
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "price": 67000,
+    "inventory": 40,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705649911/product/edwv5mhscjjycwm2a1kq.jpg",
+    "description": "A classic novel by F. Scott Fitzgerald.",
+    "publisher": "Charles Scribner's Sons",
+    "publishedYear": 1925,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1e1b15d3639a821442be"
+    },
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "price": 59000,
+    "inventory": 25,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650001/product/rbzl1nkdpwy9ozm3jaio.jpg",
+    "description": "A classic novel by Jane Austen.",
+    "publisher": "T. Egerton, Whitehall",
+    "publishedYear": 1813,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1e1b15d3639a821442c3"
+    },
+    "name": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "price": 62000,
+    "inventory": 18,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650278/product/bkgrnbqnjp3j9wnnen5j.jpg",
+    "description": "A magical realist novel by Gabriel García Márquez.",
+    "publisher": "Editorial Sudamericana",
+    "publishedYear": 1967,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aa1e1b15d3639a821442c4"
+    },
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "price": 53000,
+    "inventory": 30,
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705650335/product/rydoqoxn1z2pqa9apy7f.jpg",
+    "description": "A coming-of-age novel by J.D. Salinger.",
+    "publisher": "Little, Brown and Company",
+    "publishedYear": 1951,
+    "category": {
+      "$oid": "61f6b3de7d91e6f90a0705a1"
+    }
+  }
+]

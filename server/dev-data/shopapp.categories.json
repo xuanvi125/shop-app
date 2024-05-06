@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "61f6b3de7d91e6f90a0705a1"
+  },
+  "name": "Fiction",
+  "description": "Books that fall into the category of fiction novels."
+},
+{
+  "_id": {
+    "$oid": "61f6b3de7d91e6f90a0705a2"
+  },
+  "name": "Science Fiction",
+  "description": "Books that explore speculative concepts in the realm of science."
+},
+{
+  "_id": {
+    "$oid": "61f6b3de7d91e6f90a0705a3"
+  },
+  "name": "Mystery",
+  "description": "Books that involve mysterious or suspenseful elements."
+},
+{
+  "_id": {
+    "$oid": "61f6b3de7d91e6f90a0705a4"
+  },
+  "name": "History",
+  "description": "Books that narrate and analyze historical events and developments."
+},
+{
+  "_id": {
+    "$oid": "61f6b3de7d91e6f90a0705a5"
+  },
+  "name": "Psychology",
+  "description": "Books that delve into the study of the mind and behavior."
+}]

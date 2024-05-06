@@ -1,0 +1,516 @@
+[
+  {
+    "_id": {
+      "$oid": "658d26ed6658edfa11459317"
+    },
+    "name": "Admin BookShop",
+    "email": "newemail@example.com",
+    "password": "$2b$12$KWlzlG2Elh7hRjikFuXo7OBaGeyTkytkShepWrZUVP77guwhwMnSO",
+    "role": "admin",
+    "__v": 0,
+    "image": "658d26ed6658edfa11459317-1703818846840.jpeg",
+    "cart": [
+      {
+        "product": {
+          "$oid": "658e3ca956e8b5a1366c993f"
+        },
+        "quantity": 3,
+        "_id": {
+          "$oid": "658e51bbb11af4bf371ce3bb"
+        }
+      },
+      {
+        "product": {
+          "$oid": "658e36bbd5edbd8d1a416b37"
+        },
+        "quantity": 1,
+        "_id": {
+          "$oid": "658e6049b515ec3f81f7bc96"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65a7d5134f9d3777a96c6fb1"
+    },
+    "name": "xuavipro",
+    "email": "xuanviprona@example.com",
+    "password": "$2b$12$vdPAsRXBxYFVYp0dL3zHkebCn0rGw1CEI1TKhBQm/1IvgKa/DgJG.",
+    "image": "default-user.jpg",
+    "role": "admin",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a88e3059541e25e271f2d0"
+    },
+    "name": "new-name-hihimoine",
+    "email": "xuanviprona@example12345.com",
+    "password": "$2b$12$b/zkJLF.VJxwvEmuljdQOurAhuAZUynohO7mM3f4G/dOVYo89XGxa",
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705637834/user/mvr39qky4rkaocm0s5at.png",
+    "role": "admin",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65ab5f314754701853ab1b02"
+    },
+    "name": "Nhan",
+    "email": "nh",
+    "password": "$2b$12$j3QDwtv4ADOoBouTo2wt2euBk2ewQjsvmgsw9cwxXlj9kp855gGaS",
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705827741/user/vettp93pj5cmz5ecdraf.jpg",
+    "role": "admin",
+    "cart": [
+      {
+        "product": {
+          "$oid": "65aa1e1b15d3639a821442cd"
+        },
+        "quantity": 1,
+        "_id": {
+          "$oid": "65b546ea2272e09486a32b06"
+        }
+      },
+      {
+        "product": {
+          "$oid": "65aa1e1b15d3639a821442c6"
+        },
+        "quantity": 1,
+        "_id": {
+          "$oid": "65b546eb2272e09486a32b0c"
+        }
+      },
+      {
+        "product": {
+          "$oid": "65aa1e1b15d3639a821442ca"
+        },
+        "quantity": 1,
+        "_id": {
+          "$oid": "65b5ee38949a3e4f46c71bd3"
+        }
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65ab62994754701853ab1b10"
+    },
+    "name": "Nhan",
+    "email": "nhann9642@gmail.com",
+    "password": "$2b$12$yMocZySqV80JsoIA364e8.7fQFfoYfDCcCrsX9zLvIzquh1ElVi0G",
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705827741/user/vettp93pj5cmz5ecdraf.jpg",
+    "role": "admin",
+    "cart": [],
+    "__v": 0,
+    "changePasswordAt": {
+      "$date": "2024-01-24T02:36:20.246Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65aca79e0d19322beb671c05"
+    },
+    "name": "Nhan",
+    "email": "us",
+    "password": "$2b$12$CCF/Zw.n5dUXwVECUfoszOdi22EM8B3jc2Na6rG8nET7PG6wjJ8I.",
+    "image": "default-user.jpg",
+    "role": "user",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65acd7ea5ab4472f36c67234"
+    },
+    "name": "n",
+    "email": "123",
+    "password": "$2b$12$1.30bVPE.NX53bhDip8zFuV3ioH/XA43HdWIUY09XUzcn0p0XLAmu",
+    "image": "default-user.jpg",
+    "role": "user",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65acd8a65ab4472f36c67237"
+    },
+    "name": "Nhan",
+    "email": "n",
+    "password": "$2b$12$Feqw.tz1yX4kpkefsMJ7hOefQo3UVtxy1TjAiQi57CM.rwYXUXLoq",
+    "image": "default-user.jpg",
+    "role": "user",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65acd8ad5ab4472f36c6723a"
+    },
+    "name": "Nhan",
+    "email": "n123123",
+    "password": "$2b$12$J90E4Af1jWeb1SQ8y5KdreU4gmwOVPFXluKrk//4uH5mjIe43H7pq",
+    "image": "default-user.jpg",
+    "role": "user",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65acd8e75ab4472f36c6723e"
+    },
+    "name": "asd",
+    "email": "nh@gmail.com",
+    "password": "$2b$12$aw6WlWnUebIwBrdi3ALADOte4MD/ZE/0teaDiZrza.s31KmsfJo3C",
+    "image": "default-user.jpg",
+    "role": "user",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65acd92b5ab4472f36c67245"
+    },
+    "name": "123",
+    "email": "kkkk",
+    "password": "$2b$12$zxeOq8EKL6yoBR0MkOvEdutZm72H2ARbP5hHiKiEIOmIGySeHC5yS",
+    "image": "default-user.jpg",
+    "role": "user",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65acd9a05ab4472f36c67249"
+    },
+    "name": "Nhan Nguyen",
+    "email": "nh12312",
+    "password": "$2b$12$aXgtuJkXglIvUV7ArfphjOLmhoZuyv1L0VfsQfMrF.TgWAh4DCmE.",
+    "image": "default-user.jpg",
+    "role": "user",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65ace25551958f444b9992d0"
+    },
+    "name": "Nguyễn Nam Thanh",
+    "email": "nguyennamthanh590@gmail.com",
+    "image": "https://lh3.googleusercontent.com/a/ACg8ocLe_1SDetL-ct2-7UTXSLIujAxtbaU-C1vLflutGDZ2=s96-c",
+    "role": "user",
+    "googleId": "116757691888492610897",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65ace3885ab4472f36c672a4"
+    },
+    "name": "njhh",
+    "email": "dasd",
+    "password": "$2b$12$k9aNSMtVPAK3Cng3WCd8pOGa/tudbv5xi.XaIL3c/WdDEki2dHkGK",
+    "image": "default-user.jpg",
+    "role": "user",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65ace4e25ab4472f36c672a9"
+    },
+    "name": "nh",
+    "email": "nh123",
+    "password": "$2b$12$nRQA2j5dHymm0E.jUuHf3uCNmJVkyREyPdUbzXo0RVueZC82zc9oi",
+    "image": "default-user.jpg",
+    "role": "user",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65adda5f650f9f7d6572c4ab"
+    },
+    "name": "Nhân Nguyễn",
+    "email": "nhaan9642@gmail.com",
+    "image": "https://lh3.googleusercontent.com/a/ACg8ocLU3y7aI8vOIvE1VfIsuS-u-M3oqPMDOv9cV16s7m65JA=s96-c",
+    "role": "user",
+    "googleId": "114966730019542521612",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65ade216650f9f7d6572c551"
+    },
+    "name": "nh nh",
+    "email": "nh@123.com",
+    "password": "$2b$12$KsLLBdHFO74Uz3w/aqJ5qO7MktOWlxYt277Q4I71rs/RvnjdOCNVC",
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705827741/user/vettp93pj5cmz5ecdraf.jpg",
+    "role": "user",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65ae1ebb7c9655e03035c40b"
+    },
+    "name": "Nguyễn Xuân Vi  ‏‏‏‎",
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705827741/user/vettp93pj5cmz5ecdraf.jpg",
+    "role": "user",
+    "facebookId": "1448605472666522",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65af7a647bdbe7b211903f3e"
+    },
+    "name": "Thắm Ank",
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705827741/user/vettp93pj5cmz5ecdraf.jpg",
+    "role": "user",
+    "facebookId": "876175784509330",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65afd386eb970eab44bb5b39"
+    },
+    "name": "nh nguyen",
+    "email": "13@nh.com",
+    "password": "$2b$12$TygbUXkRLvoqoDDCdWb6t.A1jl1yMUoSCgwEv6pHIlNQnz3Eg5ime",
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705827741/user/vettp93pj5cmz5ecdraf.jpg",
+    "role": "user",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65afd3ddeb970eab44bb5bc5"
+    },
+    "name": "nh nguyen",
+    "email": "nh2@gmail.com",
+    "password": "$2b$12$nM1dXoyzltXDfr5ILgugNO4YJQT2/4XyEO4LFoj39j833xbZ1e2CW",
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705827741/user/vettp93pj5cmz5ecdraf.jpg",
+    "role": "user",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b4eb084857c51f8ba11bf6"
+    },
+    "name": "Minh Nhat 1234",
+    "email": "nnhat9256@gmail.com",
+    "password": "$2b$12$VoLIP5fZM4TTpPZPi0jfiuDEmyLGI9CamC9Acshzf5rCUij0j90lS",
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1706421984/user/oux8y6r8yisse90pr07l.jpg",
+    "role": "user",
+    "cart": [
+      {
+        "product": {
+          "$oid": "65aa224d15d3639a8214433e"
+        },
+        "quantity": 1,
+        "_id": {
+          "$oid": "65b5f5b2289d6ed63fade7ed"
+        }
+      },
+      {
+        "product": {
+          "$oid": "65aa1fb415d3639a821442fa"
+        },
+        "quantity": 1,
+        "_id": {
+          "$oid": "65b5f5b2289d6ed63fade7f3"
+        }
+      },
+      {
+        "product": {
+          "$oid": "65aa1e1b15d3639a821442c4"
+        },
+        "quantity": 1,
+        "_id": {
+          "$oid": "65b5f5b2289d6ed63fade7fb"
+        }
+      },
+      {
+        "product": {
+          "$oid": "65aa1fb415d3639a821442f9"
+        },
+        "quantity": 1,
+        "_id": {
+          "$oid": "65b607e1289d6ed63fade9a9"
+        }
+      },
+      {
+        "product": {
+          "$oid": "65aa1e1b15d3639a821442c6"
+        },
+        "quantity": 1,
+        "_id": {
+          "$oid": "65b607e2289d6ed63fade9b5"
+        }
+      }
+    ],
+    "__v": 0,
+    "changePasswordAt": {
+      "$date": "2024-01-28T02:48:43.870Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65b548182272e09486a32e90"
+    },
+    "name": "Nhan N",
+    "email": "nhh@gmail.com",
+    "password": "$2b$12$BXadarXwvzj9H/huAjApF.nZo6vMDehJVkUyeuVSYykKSeL44e05G",
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705827741/user/vettp93pj5cmz5ecdraf.jpg",
+    "role": "user",
+    "cart": [
+      {
+        "product": {
+          "$oid": "65aa224d15d3639a8214433e"
+        },
+        "quantity": 2,
+        "_id": {
+          "$oid": "65b597b85c075c7fee5a1e5c"
+        }
+      },
+      {
+        "product": {
+          "$oid": "65aa1e1b15d3639a821442c7"
+        },
+        "quantity": 1,
+        "_id": {
+          "$oid": "65b597b95c075c7fee5a1e62"
+        }
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b5c9f0756a63024755c8ad"
+    },
+    "name": "Vi Nguyễn Xuân",
+    "email": "nguyenxuanvi770@gmail.com",
+    "image": "https://lh3.googleusercontent.com/a/ACg8ocI3vQvDrXJMmQxOIUVClF_eMNYnDAKgHz32Pnea0A7tsA=s96-c",
+    "role": "user",
+    "googleId": "104092607784634499517",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b5ccd7756a63024755cbdf"
+    },
+    "name": "Alex Nguyen",
+    "email": "hungnguyen@gmail.com",
+    "password": "$2b$12$IHzW/fMFkLVQc7H/ZkYXHO9U4.zQuv6zPHcCzlKACT/VWUvsTLuk2",
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1706426059/user/xzvsvmduy6mquxzbrvdp.jpg",
+    "role": "user",
+    "cart": [],
+    "__v": 0,
+    "changePasswordAt": {
+      "$date": "2024-01-28T07:15:01.944Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65b5cd6d756a63024755cc39"
+    },
+    "name": "Admin Book",
+    "email": "admin@gmail.com.vn",
+    "password": "$2b$12$j3cGJZc7CinVFpnlLF.9vuwgFMwjVcSN5JD5yGM1qOl7n4SfCQdsK",
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705827741/user/vettp93pj5cmz5ecdraf.jpg",
+    "role": "admin",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b5d25d756a63024755d196"
+    },
+    "name": "Xuan Toc Do 102",
+    "email": "xuantoccdoa@gmail.com",
+    "password": "$2b$12$mOFA/uCSbK.3l83K825Bbef37zyiltqbd5w5SGgZQ4rX0tltwaEE6",
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1706414769/user/s1ybjzu2ojfwnugi291c.jpg",
+    "role": "user",
+    "cart": [
+      {
+        "product": {
+          "$oid": "65aa1e1b15d3639a821442cd"
+        },
+        "quantity": 1,
+        "_id": {
+          "$oid": "65b5d26f756a63024755d1b9"
+        }
+      }
+    ],
+    "__v": 0,
+    "changePasswordAt": {
+      "$date": "2024-01-29T10:14:32.207Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65b5ff44c5c5dd9afb0fdf9e"
+    },
+    "name": "Test Nguyen",
+    "email": "testacc@gmail.com",
+    "password": "$2b$12$679JxB3nCoWx6rK8gFfGTOu13S3Ix1YxeP0aufLG5zMd2FJoiK22.",
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705827741/user/vettp93pj5cmz5ecdraf.jpg",
+    "role": "user",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b76335806b4e780f2f9c83"
+    },
+    "name": "nguyen nam",
+    "email": "namnguyen@gmail.com",
+    "password": "$2b$12$Z9ApiNBilWr9uBY75owQ3.QOpeYfSfvxGQMPOVrTPtbr.Xsds0K8a",
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705827741/user/vettp93pj5cmz5ecdraf.jpg",
+    "role": "user",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b76364806b4e780f2f9c8b"
+    },
+    "name": "nguyen huy",
+    "email": "huynguyen@gmail.com",
+    "password": "$2b$12$vu6OrWtszFVBc0u0sTAU1eVkIFIQFQXW8L7YX1Ynr.AbH9vfNV/9m",
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705827741/user/vettp93pj5cmz5ecdraf.jpg",
+    "role": "user",
+    "cart": [],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b77999d6a0badb93161a69"
+    },
+    "name": "nguyen chien",
+    "email": "nguyennam@gmail.com",
+    "password": "$2b$12$diNJnEFwGNDcPiI4ZG0pX.jDv.UeT9Qm8H4lr0kiiut0QYqxUZTSO",
+    "image": "https://res.cloudinary.com/dv79err1w/image/upload/v1705827741/user/vettp93pj5cmz5ecdraf.jpg",
+    "role": "user",
+    "cart": [
+      {
+        "product": {
+          "$oid": "65aa1e1b15d3639a821442cd"
+        },
+        "quantity": 1,
+        "_id": {
+          "$oid": "65b779aad6a0badb93161a80"
+        }
+      }
+    ],
+    "__v": 0
+  }
+]
